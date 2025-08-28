@@ -14,22 +14,21 @@
 </p>
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
-<p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="48"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48"/>
-</p>
+
+<div align="center">
+
+<strong>Languages</strong><br>
+Python &nbsp; C &nbsp; C++ &nbsp; Embedded C &nbsp; Embedded C++ &nbsp; JavaScript &nbsp; TypeScript &nbsp; SQL &nbsp; Bash &nbsp; Swift
+
+<br><br>
+<strong>Technologies</strong><br>
+TensorFlow &nbsp; PyTorch &nbsp; Keras &nbsp; TFLite &nbsp; QKeras &nbsp; Docker &nbsp; Kubernetes &nbsp; Linux &nbsp; OpenCV &nbsp; Azure &nbsp; OpenAI API &nbsp; CI/CD &nbsp; RTOS &nbsp; ARM
+
+<br><br>
+<strong>Etc</strong><br>
+Embedded Systems &nbsp; Model Optimization &nbsp; TinyML &nbsp; Real-time Vision &nbsp; Edge AI
+
+</div>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Edge%20AI-Expert-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
