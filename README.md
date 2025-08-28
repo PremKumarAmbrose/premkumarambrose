@@ -43,14 +43,13 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/5%20Research%20Papers-Published-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
 	<img src="https://img.shields.io/badge/2%20Patents-Edge%20AI%20Optimization-6C63FF?style=for-the-badge&logo=patreon&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Model%20Size-%3C3.2KB%20on%20Device-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/LLM%20Platform-Scaled%20to%2040%2B%20Devs-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Model%20Size-%3C3.2KB%20on%20Device-6C63FF?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-<h2 align="center">� GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=premkumarambrose&show_icons=true&theme=material-palenight&hide=prs&bg_color=00000000" alt="GitHub Stats"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
+	<img src="https://streak-stats.demolab.com/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarambrose&layout=compact&theme=material-palenight&bg_color=00000000" alt="Top Languages"/>
 </p>
 
