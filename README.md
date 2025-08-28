@@ -49,7 +49,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=premkumarambrose&show_icons=true&theme=material-palenight&hide=prs&bg_color=00000000" alt="GitHub Stats"/>
-	<img src="https://streak-stats.demolab.com/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
+	<img src="https://github-readme-streak-stats-tau-liart.vercel.app/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarambrose&layout=compact&theme=material-palenight&bg_color=00000000" alt="Top Languages"/>
 </p>
 
