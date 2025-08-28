@@ -18,15 +18,41 @@
 <div align="center">
 
 <strong>Languages</strong><br>
-Python &nbsp; C &nbsp; C++ &nbsp; Embedded C &nbsp; Embedded C++ &nbsp; JavaScript &nbsp; TypeScript &nbsp; SQL &nbsp; Bash &nbsp; Swift
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+<img src="https://img.shields.io/badge/-C-000?&logo=C" />
+<img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-Embedded%20C-000?&logo=C" />
+<img src="https://img.shields.io/badge/-Embedded%20C++-000?&logo=c%2b%2b&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
+<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
+<img src="https://img.shields.io/badge/-Bash-000?&logo=GNUBash" />
+<img src="https://img.shields.io/badge/-Swift-000?&logo=Swift" />
 
 <br><br>
 <strong>Technologies</strong><br>
-TensorFlow &nbsp; PyTorch &nbsp; Keras &nbsp; TFLite &nbsp; QKeras &nbsp; Docker &nbsp; Kubernetes &nbsp; Linux &nbsp; OpenCV &nbsp; Azure &nbsp; OpenAI API &nbsp; CI/CD &nbsp; RTOS &nbsp; ARM
+<img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" />
+<img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" />
+<img src="https://img.shields.io/badge/-Keras-000?&logo=Keras" />
+<img src="https://img.shields.io/badge/-TFLite-000?&logo=TensorFlow" />
+<img src="https://img.shields.io/badge/-QKeras-000?&logo=Keras" />
+<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" />
+<img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
+<img src="https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV" />
+<img src="https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure" />
+<img src="https://img.shields.io/badge/-OpenAI%20API-000?&logo=OpenAI" />
+<img src="https://img.shields.io/badge/-CI/CD-000?&logo=githubactions" />
+<img src="https://img.shields.io/badge/-RTOS-000?&logo=FreeRTOS" />
+<img src="https://img.shields.io/badge/-ARM-000?&logo=Arm" />
 
 <br><br>
-<strong>Etc</strong><br>
-Embedded Systems &nbsp; Model Optimization &nbsp; TinyML &nbsp; Real-time Vision &nbsp; Edge AI
+<strong>Specialties</strong><br>
+<img src="https://img.shields.io/badge/-Embedded%20Systems-000?&logo=raspberrypi" />
+<img src="https://img.shields.io/badge/-Model%20Optimization-000?&logo=opsgenie" />
+<img src="https://img.shields.io/badge/-TinyML-000?&logo=arduino" />
+<img src="https://img.shields.io/badge/-Real--time%20Vision-000?&logo=eyeem" />
+<img src="https://img.shields.io/badge/-Edge%20AI-000?&logo=ai" />
 
 </div>
 
