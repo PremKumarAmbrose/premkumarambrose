@@ -64,21 +64,21 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Edge%20AI-Expert-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
 	<img src="https://img.shields.io/badge/TinyML-Ultra%20Lightweight-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
-	<img src="https://img.shields.io/badge/LLM%20Deployment-Quantization%20%26%20LoRA-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
+	<img src="https://img.shields.io/badge/LLM%20Deployment-Quantization-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Computer%20Vision-Real%20Time-00BFAE?style=for-the-badge&logo=opencv&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MLOps-Scalable%20Pipelines-00BFAE?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
+<!-- <h2 align="center">🏆 Achievements</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/5%20Research%20Papers-Published-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
 	<img src="https://img.shields.io/badge/2%20Patents-Edge%20AI%20Optimization-6C63FF?style=for-the-badge&logo=patreon&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Model%20Size-%3C3.2KB%20on%20Device-6C63FF?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+</p> -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=premkumarambrose&show_icons=true&theme=material-palenight&hide=prs&bg_color=00000000" alt="GitHub Stats"/>
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=premkumarambrose&show_icons=true&theme=material-palenight&hide=prs&bg_color=00000000" alt="GitHub Stats"/> -->
 	<img src="https://github-readme-streak-stats-tau-liart.vercel.app/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarambrose&layout=compact&theme=material-palenight&bg_color=00000000" alt="Top Languages"/>
 </p>
