@@ -45,6 +45,12 @@
 <img src="https://img.shields.io/badge/-CI/CD-000?&logo=githubactions" />
 <img src="https://img.shields.io/badge/-RTOS-000?&logo=FreeRTOS" />
 <img src="https://img.shields.io/badge/-ARM-000?&logo=Arm" />
+<img src="https://img.shields.io/badge/-OpenVINO-000?&logo=intel" />
+<img src="https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface" />
+<img src="https://img.shields.io/badge/-NumPy-000?&logo=numpy" />
+<img src="https://img.shields.io/badge/-Pandas-000?&logo=pandas" />
+<img src="https://img.shields.io/badge/-GStreamer-000?&logo=gstreamer" />
+<img src="https://img.shields.io/badge/-Git-000?&logo=git" />
 
 <br><br>
 <strong>Specialties</strong><br>
@@ -53,7 +59,6 @@
 <img src="https://img.shields.io/badge/-TinyML-000?&logo=arduino" />
 <img src="https://img.shields.io/badge/-Real--time%20Vision-000?&logo=eyeem" />
 <img src="https://img.shields.io/badge/-Edge%20AI-000?&logo=ai" />
-
 </div>
 
 <p align="center">
