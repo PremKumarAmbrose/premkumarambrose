@@ -23,11 +23,7 @@
 <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
 <img src="https://img.shields.io/badge/-Embedded%20C-000?&logo=C" />
 <img src="https://img.shields.io/badge/-Embedded%20C++-000?&logo=c%2b%2b&logoColor=00599C" />
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
-<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
-<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
 <img src="https://img.shields.io/badge/-Bash-000?&logo=GNUBash" />
-<img src="https://img.shields.io/badge/-Swift-000?&logo=Swift" />
 
 <br><br>
 <strong>Technologies</strong><br>
@@ -38,19 +34,8 @@
 <img src="https://img.shields.io/badge/-QKeras-000?&logo=Keras" />
 <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
 <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" />
-<img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
-<img src="https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV" />
-<img src="https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure" />
-<img src="https://img.shields.io/badge/-OpenAI%20API-000?&logo=OpenAI" />
 <img src="https://img.shields.io/badge/-CI/CD-000?&logo=githubactions" />
 <img src="https://img.shields.io/badge/-RTOS-000?&logo=FreeRTOS" />
-<img src="https://img.shields.io/badge/-ARM-000?&logo=Arm" />
-<img src="https://img.shields.io/badge/-OpenVINO-000?&logo=intel" />
-<img src="https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface" />
-<img src="https://img.shields.io/badge/-NumPy-000?&logo=numpy" />
-<img src="https://img.shields.io/badge/-Pandas-000?&logo=pandas" />
-<img src="https://img.shields.io/badge/-GStreamer-000?&logo=gstreamer" />
-<img src="https://img.shields.io/badge/-Git-000?&logo=git" />
 
 <br><br>
 <strong>Specialties</strong><br>
@@ -67,20 +52,6 @@
 	<img src="https://img.shields.io/badge/LLM%20Deployment-Quantization-00BFAE?style=for-the-badge&logo=ai&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Computer%20Vision-Real%20Time-00BFAE?style=for-the-badge&logo=opencv&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MLOps-Scalable%20Pipelines-00BFAE?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-<!-- <h2 align="center">🏆 Achievements</h2>
-<p align="center">
-	<img src="https://img.shields.io/badge/5%20Research%20Papers-Published-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
-	<img src="https://img.shields.io/badge/2%20Patents-Edge%20AI%20Optimization-6C63FF?style=for-the-badge&logo=patreon&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Model%20Size-%3C3.2KB%20on%20Device-6C63FF?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p> -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-	<!-- <img src="https://github-readme-stats.vercel.app/api?username=premkumarambrose&show_icons=true&theme=material-palenight&hide=prs&bg_color=00000000" alt="GitHub Stats"/> -->
-	<img src="https://github-readme-streak-stats-tau-liart.vercel.app/?user=premkumarambrose&theme=material-palenight&background=00000000" alt="GitHub Streak"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarambrose&layout=compact&theme=material-palenight&bg_color=00000000" alt="Top Languages"/>
 </p>
 
 <h2 align="center">🌌 Let's Build the Future of AI on the Edge!</h2>
