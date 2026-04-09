@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFAE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prem+Ambrose!;Edge+AI+%7C+Embedded+Systems+%7C+ML+Research;Building+the+future+of+AI+on+the+Edge." alt="Typing SVG"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFAE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prem+Ambrose!;Building+the+future+of+AI+on+the+Edge." alt="Typing SVG"/>
 </p>
 
 <h2 align="center">🚀 About Me</h2>
